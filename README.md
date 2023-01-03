@@ -1,0 +1,1 @@
+# hide-menu-bar-while-full-screen
