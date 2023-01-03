@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TargetApplicaton</key>
+	<array>
+		<string>com.citrix.receiver.icaviewer.mac</string>
+	</array>
+	<key>WidthCut</key>
+	<integer>10</integer>
+	<key>HeightCut</key>
+	<integer>1</integer>
+</dict>
+</plist>
